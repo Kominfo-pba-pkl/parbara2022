@@ -49,6 +49,16 @@
     height: 3rem;
 }
 
+@media (min-width: 360px) {
+    .banner-right {
+        margin-bottom: 200px;
+    }
+
+    .banner_kat {
+        margin-bottom : 100px;
+    }
+}
+
 @media (max-width: 768px) {
     #header-carousel .carousel-item {
         position: relative;
