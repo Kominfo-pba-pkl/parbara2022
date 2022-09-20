@@ -328,6 +328,11 @@
     font-size: larger;
 }
 
+.m-bottom {
+    position: relative;
+    margin-top: 50px;
+}
+
 .daftar {
     position: relative;
     margin-top: 50px;
