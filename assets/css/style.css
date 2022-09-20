@@ -52,35 +52,35 @@
 @media (min-width: 360px) {
     .m-bottom {
         position: relative;
-        margin-top: 200px;
+        margin-bottom: 200px;
     }
 }
 
 @media (min-width: 576px) {
     .m-bottom {
         position: relative;
-        margin-top: 200px;
+        margin-bottom: 200px;
     }
 }
 
 @media (min-width: 764px) {
     .m-bottom {
         position: relative;
-        margin-top: 200px;
+        margin-bottom: 200px;
     }
 }
 
 @media (min-width: 992px) {
     .m-bottom {
         position: relative;
-        margin-top: 200px;
+        margin-bottom: 100px;
     }
 }
 
 @media (min-width: 1200px) {
     .m-bottom {
         position: relative;
-        margin-top: 200px;
+        margin-bottom: 50px;
     }
 }
 
