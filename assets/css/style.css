@@ -49,13 +49,38 @@
     height: 3rem;
 }
 
-@media (max-width: 360px) {
-    .banner-right {
-        margin-bottom: 200px;
+@media (min-width: 360px) {
+    .m-bottom {
+        position: relative;
+        margin-top: 200px;
     }
+}
 
-    .banner_kat {
-        margin-bottom: 100px;
+@media (min-width: 576px) {
+    .m-bottom {
+        position: relative;
+        margin-top: 200px;
+    }
+}
+
+@media (min-width: 764px) {
+    .m-bottom {
+        position: relative;
+        margin-top: 200px;
+    }
+}
+
+@media (min-width: 992px) {
+    .m-bottom {
+        position: relative;
+        margin-top: 200px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .m-bottom {
+        position: relative;
+        margin-top: 200px;
     }
 }
 
@@ -326,11 +351,6 @@
     font-weight: bolder;
     margin-left: 30px;
     font-size: larger;
-}
-
-.m-bottom {
-    position: relative;
-    margin-top: 50px;
 }
 
 .daftar {
